@@ -10,7 +10,7 @@ Three.js allows you to create and display animated 3D computer graphics in a web
 
 The course is divided into multiple sessions, each covering different aspects of Three.js and 3D web development. You can find the detailed documentation and resources for each session at the following link:
 
-[Three.js Course Documentation](https://flawless-hammer-fd1.notion.site/Three-JS-dce784f0c3ab454bafdf8896aa85528c?pvs=4)
+[Three.js Course Documentation](https://flawless-hammer-fd1.notion.site/Three-JS-Meets-c0872c58d22849c1b3afc47cdf9af45c)
 
 ## Getting Started
 
